@@ -1,0 +1,25 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/backoutsideb0yz/api-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/backoutsideb0yz/api-express/issues"
+  },
+  "homepage": "https://github.com/backoutsideb0yz/api-express#readme",
+  "dependencies": {
+    "xpress": "^2.4.6"
+  }
+}
